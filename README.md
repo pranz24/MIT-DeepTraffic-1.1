@@ -5,7 +5,10 @@ My javascript code that I submitted for MIT's 6.S094: Deep Learning for Self-Dri
 
 ## Results
 
-I was able to achieve a best result of 75mph (average result was +- 0.3mph) after training my AI for around 18 to 20 hours.
+I was able to achieve a result of 75mph (average result was +- 0.3mph) after training my AI for around 18 to 20 hours and
+with little more tweaking I got an average speed of 75.45mph.
+
+I was also ranked 5th in the leaderboard from 2/2/2017 to 25/2/2017.
 
 
 
