@@ -10,6 +10,8 @@ with little more tweaking I got an average speed of 75.45mph.
 
 I was also ranked 5th in the leaderboard from 2/2/2017 to 25/2/2017.
 
+![Uploading MIT DeepTraffic 1.1.png…]()
+
 
 
 
